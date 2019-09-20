@@ -1,0 +1,2 @@
+module AdvancedSD_ProxyPattern {
+}
